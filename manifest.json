@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "G2A Time Glitch",
+    "description": "Enables Time-Skip Glitch on G2A",
+    "version": "1.0",
+    "content_scripts":[
+        {
+        "matches": ["https://www.g2a.com/payment"],
+        "js": ["content.js"]
+        }
+      ],
+    "permissions": [
+        "activeTab"
+      ]
+    }
