@@ -12,7 +12,7 @@ This extension is super easy to use, and can be used to get free items on G2A, i
 Install the Extension
 
 ```
-1. Download the files in the "Release" section
+1. Download the source code files in the "Release" section
 2. Unzip these files and save them to a location you can remember
 3. Open chrome, and go to chrome://extensions
 4. Enable developer mode in the top right corner
